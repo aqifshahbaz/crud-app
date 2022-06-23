@@ -11,7 +11,7 @@ export const EditUser = (props) => {
   });
   const { users, editUserID } = useContext(GlobalContext);
   const history = useNavigate();
-  const {userID} = useParams(props);
+  const {userID} = useParams(propsdasadadsasdsdasdaadss);
   useEffect(() => {
     const foundUser = users.find((user) => String(user.id) === userID);
     
