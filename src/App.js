@@ -6,7 +6,7 @@ import { EditUser } from "./components/EditUser";
 import { GlobalProvider } from "./context/GlobalState";
 import "bootstrap/dist/css/bootstrap.min.css";
 
-function App() {
+function App() {kasjd
   return (
     <div style={{ maxWidth: "30rem", margin: "4rem auto" }} className="">
       <GlobalProvider>
